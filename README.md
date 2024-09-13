@@ -1,5 +1,9 @@
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=15904811)
+<<<<<<< HEAD
 # TEJ2O ⇢ Unit 2-02
+=======
+# TEJ2O ⇢ Unit #2-02
+>>>>>>> cd074cb23c248734cc3800f56ac050f0f8f5d95a
 
 [![Mr Coxall's Super Linter](https://github.com/MTHS-TEJ2O-1-2024/<REPOSITORY>/workflows/Mr%20Coxall's%20Super%20Linter/badge.svg)](https://github.com/MTHS-TEJ2O-1-2024/<REPOSITORY>/actions)
 
